@@ -3,5 +3,9 @@ class Car
 main
 {
 //logies here put 
+public int gear()
+{
+return 6;
+}
 }
 }
