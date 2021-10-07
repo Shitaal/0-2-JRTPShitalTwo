@@ -1,0 +1,7 @@
+class DateUtalis
+{
+main method
+{
+logies put here 
+}
+}
